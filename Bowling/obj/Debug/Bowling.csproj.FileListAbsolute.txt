@@ -1,0 +1,39 @@
+K:\prog\freelance\hwsol9650\Bowling\Bowling\bin\Debug\game.txt
+K:\prog\freelance\hwsol9650\Bowling\Bowling\bin\Debug\Bowling.exe.config
+K:\prog\freelance\hwsol9650\Bowling\Bowling\bin\Debug\Bowling.exe
+K:\prog\freelance\hwsol9650\Bowling\Bowling\bin\Debug\Bowling.pdb
+K:\prog\freelance\hwsol9650\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+K:\prog\freelance\hwsol9650\Bowling\Bowling\obj\Debug\Bowling.exe
+K:\prog\freelance\hwsol9650\Bowling\Bowling\obj\Debug\Bowling.pdb
+K:\prog\freelance\hwsol9650\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+K:\Bowling\Bowling\bin\Debug\game.txt
+K:\Bowling\Bowling\bin\Debug\Bowling.exe.config
+K:\Bowling\Bowling\bin\Debug\Bowling.exe
+K:\Bowling\Bowling\bin\Debug\Bowling.pdb
+K:\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+K:\Bowling\Bowling\obj\Debug\Bowling.csproj.CoreCompileInputs.cache
+K:\Bowling\Bowling\obj\Debug\Bowling.exe
+K:\Bowling\Bowling\obj\Debug\Bowling.pdb
+K:\Bowling\Bowling\bin\Debug\all10.txt
+K:\Bowling\Bowling\bin\Debug\allF.txt
+K:\Bowling\Bowling\bin\Debug\all0.txt
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\Bowling.exe.config
+F:\Zebra\Final 2\Bowling\Bowling\obj\Debug\Bowling.exe
+F:\Zebra\Final 2\Bowling\Bowling\obj\Debug\Bowling.pdb
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\all0.txt
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\allF.txt
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\all10.txt
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\game.txt
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\Bowling.exe
+F:\Zebra\Final 2\Bowling\Bowling\bin\Debug\Bowling.pdb
+F:\Zebra\Final 2\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\Bowling.exe.config
+F:\Zebra\Final\Bowling\Bowling\obj\Debug\Bowling.exe
+F:\Zebra\Final\Bowling\Bowling\obj\Debug\Bowling.pdb
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\all0.txt
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\allF.txt
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\all10.txt
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\game.txt
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\Bowling.exe
+F:\Zebra\Final\Bowling\Bowling\bin\Debug\Bowling.pdb
+F:\Zebra\Final\Bowling\Bowling\obj\Debug\Bowling.csprojResolveAssemblyReference.cache

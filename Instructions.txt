@@ -1,0 +1,33 @@
+Compilation:
+
+Open solution in Visual Studio. Compile and run from Visual Studio interface. Compiled binary is in bowling/bin/debug
+
+Command Line Usage: 
+
+Bowling.exe path_to_file.txt
+
+Execute program, maximize console window to fit all the output and press enter for programm to start working. 
+Press enter again to close it after program showed output.
+
+Data Files:
+
+all0.txt - contains 1 player hitting 0 pins on every chance
+allF.txt - contains 1 player getting faults on every chance
+all10.txt - contains 1 player hitting strikes on every chance
+game.txt - contains 2 players, taken from example provided with task description
+
+Example Output:
+
+Frame           1               2               3               4               5               6               7               8               9               10
+Jeff
+Pinfalls                X       7       /       9       0               X       0       8       8       /       F       6               X               X       X       8       1
+Score           20              39              48              66              74              84              90              120             148             167
+John
+Pinfalls        3       /       6       3               X       8       1               X               X       9       0       7       /       4       4       X       9       0
+Score           16              25              44              53              82              101             110             124             132             151
+
+
+Run Tests: 
+
+Open solution, select in main menu -> TEST -> Run all tests. This will run tests and show results in a Test Explorer.
+
